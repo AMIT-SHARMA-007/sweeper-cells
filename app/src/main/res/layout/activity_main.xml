@@ -26,4 +26,11 @@
         android:inputType="textPassword"
         android:layout_below="@id/uname"/>
 
+    <Button
+        android:layout_margin="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginBtn"
+        android:layout_below="@id/pass"/>
+
 </RelativeLayout>
