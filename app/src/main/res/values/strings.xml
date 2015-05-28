@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Evolution</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    //Main Activity
+    <string name="unameHint">User Name</string>
+    <string name="passHint">Password</string>
 </resources>
